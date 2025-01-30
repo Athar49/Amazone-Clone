@@ -18,8 +18,8 @@
 }
 
 .logo {
-    background-image: url("./Images/amazon_logo.png");
-    background-size: cover;
+    /* background-image: url("./Images/amazon_logo.png");
+    background-size: cover; */
     height: 50px;
     width: 90px;
 }
